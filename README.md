@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thinal Gunathilaka</h1>
-<h3 align="center">A am SE undergraduate student.</h3>
+<h3 align="center"> I am SE undergraduate student.</h3>
 
 - 🔭 I’m currently studying on **iCET**
 
